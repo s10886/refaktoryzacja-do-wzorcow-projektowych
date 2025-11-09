@@ -15,4 +15,8 @@
     <None Include="CH01_CodeSmells\Solutions\RefusedBequest.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="CH06_NetDesignPatterns\Zadania\Factory\" />
+  </ItemGroup>
+
 </Project>
