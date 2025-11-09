@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj": {}
+    "C:\\Users\\Karolina\\source\\repos\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj": {}
   },
   "projects": {
-    "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj": {
+    "C:\\Users\\Karolina\\source\\repos\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj",
+        "projectUniqueName": "C:\\Users\\Karolina\\source\\repos\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj",
         "projectName": "RefactoringToDesignPatterns",
-        "projectPath": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj",
-        "packagesPath": "C:\\Users\\kowal\\.nuget\\packages\\",
-        "outputPath": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\obj\\",
+        "projectPath": "C:\\Users\\Karolina\\source\\repos\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj",
+        "packagesPath": "C:\\Users\\Karolina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karolina\\source\\repos\\refaktoryzacja-do-wzorcow-projektowych\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kowal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Karolina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
